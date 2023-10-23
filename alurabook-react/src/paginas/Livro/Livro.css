@@ -1,0 +1,4 @@
+.livro-detalhe {
+    display: flex;
+    flex-direction: row;
+}
